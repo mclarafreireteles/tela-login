@@ -1,2 +1,2 @@
 # tela-login
-Projeto de tela de login simples.
+Protótipo de tela de login simples.
